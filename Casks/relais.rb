@@ -13,7 +13,7 @@ cask "relais" do
   end
 
   auto_updates true
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Relais.app"
   binary "#{appdir}/Relais.app/Contents/MacOS/relais"
