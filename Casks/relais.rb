@@ -1,6 +1,6 @@
 cask "relais" do
-  version "0.2.2"
-  sha256 "ff814a951bdd9c99320f89dc8102bbb028f8dc09cebd943d458bf23930c04428"
+  version "0.3.0"
+  sha256 "2300803ec0d1f2f926f67cbcf8becc950118f2656f83af20c40d37cfd64d0a4b"
 
   url "https://github.com/bvisible/relais/releases/download/v#{version}/Relais-#{version}-universal.dmg"
   name "Relais"
